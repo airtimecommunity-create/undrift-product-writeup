@@ -79,7 +79,7 @@ The result is a system where velocity comes from leverage and discipline, not fr
  
 ## Roadmap (designed / in progress, not yet shipped)
  
-Listed separately and honestly — these are specced or in progress, not live:
+These are specced or in progress, not live:
  
 - Additional brain-training games (specced, build pending).
 - An additional calming game and a shared gallery-game framework (the framework extraction is intentionally deferred until a third use case justifies it).
