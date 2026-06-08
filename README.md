@@ -3,6 +3,7 @@
 A consumer wellness iOS app for people with busy, restless minds — a daily companion for nervous-system regulation, focus, and calm. Built and shipped solo, live on the App Store.
  
 **Status:** Live in production · [(App Store)](https://apps.apple.com/app/id6761639886) · Solo developer & product owner
+
 **Stack:** React Native · Expo · TypeScript (strict) · Zustand · Supabase · RevenueCat · PostHog
  
 > This repository is a public write-up of how Undrift was built and the decisions behind it. The product source is private. The goal here is to document the architecture, the product thinking, and the AI-assisted development system that let one person ship and operate a production app.
